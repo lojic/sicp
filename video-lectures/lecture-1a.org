@@ -1,0 +1,33 @@
+* 14:10 A fixed point of a function F is the value Y such that F(Y) = Y
+  - Start with a guess for Y
+  - Keep applying F over and over until the result doesn't change very much
+
+  Example: co compute sqrt(x). Find a fixed point of the function, Y,
+  then average Y and X/Y
+
+* 18:05 Black Box Abstraction - 1st of 3 major topics
+  - Primitive objects
+    - Primitive procedures
+    - Primitive data
+  - Means of combination
+    - Procedure composition
+    - Construction of compound data
+  - Means of abstraction
+    - Procedure definition
+    - Simple data abstraction
+  - Capturing common patterns
+    - High-order procedures
+    - Data as procedures
+
+* 20:00 Conventional Interfaces - 2nd of 3 major topics
+  - Generic operations
+  - Large-scale structure and modularity
+  - Object-oriented programming
+  - Operations on aggregates (streams)
+
+* 24:40 Metalinguistic Abstraction - 3rd of 3 major topics
+  - Process of interpretation (apply/eval)
+  - Logic programming language
+  - Register machines
+
+Left off at 27:42 ...
